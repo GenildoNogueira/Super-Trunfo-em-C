@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Super-Trunfo-em-C
-=======
 # Super Trunfo de Países
 
 ## 🏆 Desafio: Nível Novato
@@ -76,4 +73,5 @@ População: 2872347
 PIB: 699.28 bilhões de reais
 Número de Pontos Turísticos: 50
 ```
+
 >>>>>>> 981449f (first commit)
